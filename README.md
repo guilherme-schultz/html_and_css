@@ -1,2 +1,4 @@
-# html_and_css
- Treinamento de HTML e CSS
+# HTML and CSS
+ ##Training HTML and CSS with Git and Github
+---
+ Creating a **Blog**.
